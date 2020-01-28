@@ -1,3 +1,3 @@
-ello-world
+hello-world
 hello-world first time
-a little aabout me, very original
+a little about me, very original
